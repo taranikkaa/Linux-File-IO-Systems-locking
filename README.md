@@ -1,6 +1,6 @@
 # Linux-File-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
-### PRASANNA A 212223220078
+### TARANIKKA A 212223220115
 # AIM:
 To Write a C program that illustrates files copying and locking
 
